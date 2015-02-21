@@ -1,3 +1,5 @@
+Forked v1.4 from https://code.google.com/p/r-google-analytics/
+
 This document describes how you can get started using the Google Analytics for R library.
 
 How to install this R package in R:
